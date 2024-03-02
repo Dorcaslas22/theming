@@ -24,7 +24,7 @@ class WelcomeScreen extends StatelessWidget {
             flex: 1,
             child: Container(
               padding: const EdgeInsets.all(8.0),
-              child: Text('Welcome to Domann Bank',
+              child: Text('Welcome to AgroFarm',
                style: TextStyle(
                  fontSize: 20,
                  fontWeight: FontWeight.normal,

@@ -64,7 +64,7 @@ class SignupScreen extends StatelessWidget {
                       ),
                     );
                   },
-                  child: const Text('Already have an account?Login'),
+                      child: const Text('Already have an account?Login'),
                 ),
                             ],
                           ),
